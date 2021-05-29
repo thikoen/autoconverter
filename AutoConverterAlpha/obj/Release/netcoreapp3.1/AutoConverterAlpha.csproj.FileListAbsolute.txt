@@ -1,0 +1,14 @@
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\bin\Release\netcoreapp3.1\AutoConverterAlpha.exe
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\bin\Release\netcoreapp3.1\AutoConverterAlpha.deps.json
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\bin\Release\netcoreapp3.1\AutoConverterAlpha.runtimeconfig.json
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\bin\Release\netcoreapp3.1\AutoConverterAlpha.runtimeconfig.dev.json
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\bin\Release\netcoreapp3.1\AutoConverterAlpha.dll
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\bin\Release\netcoreapp3.1\AutoConverterAlpha.pdb
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\bin\Release\netcoreapp3.1\Xabe.FFmpeg.dll
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\obj\Release\netcoreapp3.1\AutoConverterAlpha.csprojAssemblyReference.cache
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\obj\Release\netcoreapp3.1\AutoConverterAlpha.AssemblyInfoInputs.cache
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\obj\Release\netcoreapp3.1\AutoConverterAlpha.AssemblyInfo.cs
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\obj\Release\netcoreapp3.1\AutoConverterAlpha.csproj.CopyComplete
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\obj\Release\netcoreapp3.1\AutoConverterAlpha.dll
+C:\Users\Tk\Desktop\AutoConverter\AutoConverterAlpha\obj\Release\netcoreapp3.1\AutoConverterAlpha.pdb
